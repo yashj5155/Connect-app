@@ -2,7 +2,7 @@
 
 A lightweight Android application that automatically discovers and connects to local network video streams running on port **5000**.
 
-***Best work with our WiFi File Share App (Windows)***
+#***Best work with our WiFi File Share App (Windows)***#
 
 Connect instantly using:
 - 🔍 Automatic Network Scan
