@@ -1,5 +1,5 @@
 # 🎥 Connect – WiFi Stream Viewer (Android APK)
-#Best work with our WiFi File Share App (Windows)#
+
 A lightweight Android application that automatically discovers and connects to local network video streams running on port **5000**.
 
 Connect instantly using:
@@ -8,7 +8,7 @@ Connect instantly using:
 - ⌨ Manual IP Entry
 
 ---
-
+#Best work with our WiFi File Share App (Windows)
 ## 🚀 Overview
 
 **Connect** is designed to simplify accessing local camera streams hosted on a WiFi network.
