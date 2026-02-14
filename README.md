@@ -31,7 +31,7 @@ Ideal for:
 ---
 
 ## 📥 Download APK
-<a href="https://github.com/yashj5155/Connect-app/releases/download/V1.0.0/Connect.apk" class="sections" style="text-decoration: none;">📥 Download Now</a>
+<a href="https://github.com/yashj5155/Connect-app/releases/download/V1.0.0/Connect.apk" class="sections" style="color: white; background-color: blue; text-decoration: none; padding: 10px 15px;">📥 Download Now</a>
 👉 Download the latest APK from the **Releases** section of this repository.
 
 After downloading:
