@@ -97,35 +97,6 @@ The app automatically normalizes the input to a valid URL.
 
 ---
 
-## 📸 Screenshots
-
-Create a folder in your repository:
-
-```
-screenshots/
-```
-
-Then include them like this:
-
-### 🏠 Home Screen
-![Home](screenshots/home.png)
-
-### 🔍 Network Scan
-![Scanning](screenshots/scanning.png)
-
-### 📡 Found Servers
-![Servers](screenshots/servers.png)
-
-### 📷 QR Scanner
-![QR](screenshots/qr.png)
-
-### 🎥 Stream View
-![Stream](screenshots/stream.png)
-
-### ⛶ Fullscreen Mode
-![Fullscreen](screenshots/fullscreen.png)
-
----
 
 ## 📡 How It Works
 
@@ -211,3 +182,10 @@ MIT License
 ## ⭐ Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
+
+```
+screenshots/
+```
+<img width="480px" alt="home" src="https://github.com/user-attachments/assets/e2df25ef-8a8d-40f8-aa82-0cf9bd6f1e45" />
+<img width="480px" alt="Qrcode" src="https://github.com/user-attachments/assets/1be01daa-3836-41cb-915a-bb2e1283a9f2" />
+<img width="480px" alt="afterconnect" src="https://github.com/user-attachments/assets/03c9e6bf-87a9-476b-a090-792b81f92fcf" />
